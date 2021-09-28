@@ -47,3 +47,4 @@ Blog Contents
 <h4><span style="color: #333399;"><strong>Keep its kennel clean.</strong></span></h4>
 <p>&nbsp;</li>
 </ul>
+<p>Do not forget to disinfect your dog’s kennel periodically with detergent and medicine.</p>
